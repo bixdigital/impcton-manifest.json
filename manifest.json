@@ -1,10 +1,10 @@
 {
   "name": "IMPCTON Wallet",
-  "icon": "https://example.com/icon.png",  // Add the URL of your wallet's icon or logo
-  "description": "A wallet for managing IMPCTON tokens.",
-  "url": "https://impton.vcel.app",  // URL to your app or site
+  "icon": "https://i.imgur.com/xpWaP3c.png",
+  "description": "A wallet for managing IMPCTON tokens and Rewards.",
+  "url": "https://impton.vcel.app",
   "short_name": "IMPCTON",
-  "theme_color": "#4CAF50",  // Main color for your app, for example green
+  "theme_color": "#4CAF50",
   "permissions": ["connect", "send"],
   "blockchain": {
     "network": "mainnet",
